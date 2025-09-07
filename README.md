@@ -36,9 +36,9 @@ Gosto de trabalhar com times colaborativos, sempre buscando clareza, eficiência
 
 | 💼 Projeto | 📝 Descrição | 🛠️ Tecnologias | 🔗 Link |
 |-----------|--------------|----------------|--------|
-| **Sistema Bancário** | Sistema bancário completo com P.O.O e logs | Python, POO, Decorators | [Ver projeto](https://github.com/Raphael2203/sistema_bancario)  
-| **Gestor de Atletas** | Gerenciador de dados de atletas e centros | FastAPI, PostgreSQL, Docker | [Ver projeto](https://github.com/Raphael2203/Gestor_de_Atletas)  
-| **Estacionamento (.NET)** | Controle de entrada e saída de veículos com cálculo de cobrança | C#, .NET, POO | [Ver projeto](https://github.com/Raphael2203/Estacionamento)
+| **Sistema Bancário(Python)** | Sistema bancário completo com P.O.O e logs | Python, POO, Decorators | [Ver projeto](https://github.com/Raphael2203/sistema_bancario)  
+| **Gestor de Atletas(Python)** | Gerenciador de dados de atletas e centros | FastAPI, PostgreSQL, Docker | [Ver projeto](https://github.com/Raphael2203/Gestor_de_Atletas)  
+| **Estacionamento (Python)** | Controle de entrada e saída de veículos com cálculo de cobrança | Python, Flask e SQLite | [Ver projeto](https://github.com/Raphael2203/Estacionamento)
 
 ---
 
@@ -50,12 +50,6 @@ Gosto de trabalhar com times colaborativos, sempre buscando clareza, eficiência
 
 ---
 
-![Commits Stats](https://github-readme-stats.vercel.app/api?username=Raphael2203&show_icons=true&count_private=true&theme=radical)
-
----
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael2203&layout=compact&theme=radical)
-
 ## 🌱 Em constante evolução
 
 📚 Atualmente estudando:
@@ -65,8 +59,4 @@ Gosto de trabalhar com times colaborativos, sempre buscando clareza, eficiência
 - Boas práticas de Clean Code e SOLID  
 - Integração com AWS e mensageria (RabbitMQ, SQS)
 - Backend completo com .Net e Azure
----
-
- escrevo.
-
 ---
