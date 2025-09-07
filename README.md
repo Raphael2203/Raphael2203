@@ -1,18 +1,21 @@
-<h1 align="center">Raphael 👨‍💻 | Back-End Developer</h1>
+<h1 align="center">Raphael 👨‍💻 | Back-End Developer | Python & .NET</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django%20REST%20Framework-FF1709?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
+---
+
 ## 👋 Sobre mim
 
-Olá! Sou Raphael, desenvolvedor **Back-End** com foco em Python, APIs escaláveis e automações inteligentes.  
+Olá! Sou Raphael, desenvolvedor **Back-End** com foco em Python e .NET, apaixonado por construir APIs escaláveis, automações inteligentes e sistemas web bem estruturados.  
 Tenho paixão por resolver problemas reais com código limpo, arquitetura bem pensada e entregas consistentes.  
 Gosto de trabalhar com times colaborativos, sempre buscando clareza, eficiência e evolução contínua. 🚀
 
@@ -20,17 +23,12 @@ Gosto de trabalhar com times colaborativos, sempre buscando clareza, eficiência
 
 ## 🧠 Tecnologias e Ferramentas
 
-🧩 **Linguagens:** Python | JavaScript | HTML & CSS
-
-🧱 **Frameworks:** Django | Flask | FastAPI | Django REST Framework  
-
-🗄️ **Banco de dados:** PostgreSQL | MySQL | MongoDB  
-
-⚙️ **DevOps:** Git | GitHub | Docker | Linux  
-
-🧪 **Testes:** Pytest | TDD | Linting  
-
-🔗 **Outros:** RESTful APIs | JWT
+🧩 **Linguagens:** Python | C# | JavaScript | HTML & CSS  
+🧱 **Frameworks:** Django | Flask | FastAPI | ASP.NET Core | Django REST Framework  
+🗄️ **Banco de dados:** PostgreSQL | MySQL | SQL Server | MongoDB  
+⚙️ **DevOps:** Git | GitHub | Docker | Linux | GitHub Actions  
+🧪 **Testes:** Pytest | xUnit | TDD | Linting  
+🔗 **Outros:** RESTful APIs | JWT | Swagger | CI/CD | Programação Orientada a Objetos
 
 ---
 
@@ -40,7 +38,7 @@ Gosto de trabalhar com times colaborativos, sempre buscando clareza, eficiência
 |-----------|--------------|----------------|--------|
 | **Sistema Bancário** | Sistema bancário completo com P.O.O e logs | Python, POO, Decorators | [Ver projeto](https://github.com/Raphael2203/sistema_bancario)  
 | **Gestor de Atletas** | Gerenciador de dados de atletas e centros | FastAPI, PostgreSQL, Docker | [Ver projeto](https://github.com/Raphael2203/Gestor_de_Atletas)  
-| **Estacionamento** | Controle de entrada e saída de veículos | Flask, JavaScript | [Ver projeto](https://github.com/Raphael2203/Estacionamento)
+| **Estacionamento (.NET)** | Controle de entrada e saída de veículos com cálculo de cobrança | C#, .NET, POO | [Ver projeto](https://github.com/Raphael2203/Estacionamento)
 
 ---
 
@@ -52,19 +50,23 @@ Gosto de trabalhar com times colaborativos, sempre buscando clareza, eficiência
 
 ---
 
+![Commits Stats](https://github-readme-stats.vercel.app/api?username=Raphael2203&show_icons=true&count_private=true&theme=radical)
+
+---
+
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael2203&layout=compact&theme=radical)
+
 ## 🌱 Em constante evolução
 
 📚 Atualmente estudando:
 - Arquitetura de microserviços  
-- Testes avançados com Pytest  
+- Testes avançados com Pytest e xUnit  
 - Deploy com Docker e Kubernetes  
-- Boas práticas de Clean Code e SOLID
-
+- Boas práticas de Clean Code e SOLID  
+- Integração com AWS e mensageria (RabbitMQ, SQS)
+- Backend completo com .Net e Azure
 ---
 
-## ⚡ Curiosidade
-
-> “Código é poesia quando resolve problemas com elegância.”  
-🎯 Busco impacto real, clareza e eficiência em cada linha que escrevo.
+ escrevo.
 
 ---
