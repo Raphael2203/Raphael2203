@@ -38,7 +38,7 @@ Gosto de trabalhar com times colaborativos, sempre buscando clareza, eficiência
 |-----------|--------------|----------------|--------|
 | **Sistema Bancário(Python)** | Sistema bancário completo com P.O.O e logs | Python, POO, Decorators | [Ver projeto](https://github.com/Raphael2203/sistema_bancario)  
 | **Gestor de Atletas(Python)** | Gerenciador de dados de atletas e centros | FastAPI, PostgreSQL, Docker | [Ver projeto](https://github.com/Raphael2203/Gestor_de_Atletas)  
-| **Estacionamento (Python)** | Controle de entrada e saída de veículos com cálculo de cobrança | Python, Flask e SQLite | [Ver projeto](https://github.com/Raphael2203/Estacionamento)
+| **Estacionamento de Veículos (C#)** | Controle de entrada e saída de veículos com permissões e Autenticação | C#, MinimalAPI, Entity Framework, AWS | [Ver projeto](https://github.com/Raphael2203/minimal-api)
 
 ---
 
