@@ -26,9 +26,9 @@ Gosto de trabalhar com times colaborativos, sempre buscando clareza, eficiência
 🧩 **Linguagens:** Python | C# | JavaScript | HTML & CSS  
 🧱 **Frameworks:** Django | Flask | FastAPI | ASP.NET Core | Django REST Framework  
 🗄️ **Banco de dados:** PostgreSQL | MySQL | SQL Server | MongoDB  
-⚙️ **DevOps:** Git | GitHub | Docker | Linux | GitHub Actions  
+⚙️ **DevOps:** Git | GitHub | Docker | Linux 
 🧪 **Testes:** Pytest | xUnit | TDD | Linting  
-🔗 **Outros:** RESTful APIs | JWT | Swagger | CI/CD | Programação Orientada a Objetos
+🔗 **Outros:** RESTful APIs | JWT | Swagger | Programação Orientada a Objetos
 
 ---
 
