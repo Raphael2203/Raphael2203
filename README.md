@@ -24,9 +24,9 @@ Gosto de trabalhar com times colaborativos, sempre buscando clareza, eficiência
 ## 🧠 Tecnologias e Ferramentas
 
 🧩 **Linguagens:** Python | C# | Vue.js | HTML & CSS  
-🧱 **Frameworks:** Django | Flask | FastAPI | Django | .NET | ASP.NET Core | Entity Framework
+🧱 **Frameworks:** Django | Flask | FastAPI | Django | .NET | ASP.NET Core | Entity Framework  
 🗄️ **Banco de dados:** PostgreSQL | MySQL | SQL Server  
-⚙️ **DevOps:** Git | GitHub | Docker | Linux 
+⚙️ **DevOps:** Git | GitHub | Docker | Linux  
 🧪 **Testes:** Pytest | xUnit | TDD | Linting  
 🔗 **Outros:** RESTful APIs | JWT | Swagger | Programação Orientada a Objetos
 
@@ -54,10 +54,8 @@ Gosto de trabalhar com times colaborativos, sempre buscando clareza, eficiência
 ## 🌱 Em constante evolução
 
 📚 Atualmente estudando:
-- Arquitetura de microserviços  
-- Testes avançados com Pytest e xUnit  
-- Deploy com Docker e Kubernetes  
-- Boas práticas de Clean Code e SOLID  
-- Integração com AWS e mensageria (RabbitMQ, SQS)
-- Backend completo com .Net e Azure
+- DevOps (CI/CD)
+- Desenvolvimento Mobile
+- Automação com N8N
+- Computação em Nuvem
 ---
