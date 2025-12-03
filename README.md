@@ -15,7 +15,7 @@
 
 ## 👋 Sobre mim
 
-Olá! Sou Raphael, desenvolvedor **Back-End** com foco em Python e .NET, apaixonado por construir APIs escaláveis, automações inteligentes e sistemas web bem estruturados.  
+Olá! Sou Raphael, desenvolvedor com foco em Python e .NET, apaixonado por construir APIs escaláveis, automações inteligentes e sistemas web bem estruturados.  
 Tenho paixão por resolver problemas reais com código limpo, arquitetura bem pensada e entregas consistentes.  
 Gosto de trabalhar com times colaborativos, sempre buscando clareza, eficiência e evolução contínua. 🚀
 
@@ -23,9 +23,9 @@ Gosto de trabalhar com times colaborativos, sempre buscando clareza, eficiência
 
 ## 🧠 Tecnologias e Ferramentas
 
-🧩 **Linguagens:** Python | C# | JavaScript | HTML & CSS  
-🧱 **Frameworks:** Django | Flask | FastAPI | ASP.NET Core | Django REST Framework  
-🗄️ **Banco de dados:** PostgreSQL | MySQL | SQL Server | MongoDB  
+🧩 **Linguagens:** Python | C# | Vue.js | HTML & CSS  
+🧱 **Frameworks:** Django | Flask | FastAPI | Django | .NET | ASP.NET Core | Entity Framework
+🗄️ **Banco de dados:** PostgreSQL | MySQL | SQL Server  
 ⚙️ **DevOps:** Git | GitHub | Docker | Linux 
 🧪 **Testes:** Pytest | xUnit | TDD | Linting  
 🔗 **Outros:** RESTful APIs | JWT | Swagger | Programação Orientada a Objetos
@@ -36,9 +36,10 @@ Gosto de trabalhar com times colaborativos, sempre buscando clareza, eficiência
 
 | 💼 Projeto | 📝 Descrição | 🛠️ Tecnologias | 🔗 Link |
 |-----------|--------------|----------------|--------|
-| **Sistema Bancário(Python)** | Sistema bancário completo com P.O.O e logs | Python, POO, Decorators | [Ver projeto](https://github.com/Raphael2203/sistema_bancario)  
-| **Gestor de Atletas(Python)** | Gerenciador de dados de atletas e centros | FastAPI, PostgreSQL, Docker | [Ver projeto](https://github.com/Raphael2203/Gestor_de_Atletas)  
+| **Cosméticos de Fortnite(Python)** | Sistema para compra e venda de cosméticos, com controle de acesso e login, consumindo uma API externa | MySQL, FastAPI, Alembic, Celery, Redis Vue.js, Vite e Docker | [Ver projeto](https://github.com/Raphael2203/fortnite-cosmetics-app)  
+| **Gestor de Atletas(Python)** | Gerenciador de dados de atletas academias e categorias, documentado em Swagger | FastAPI, PostgreSQL, Docker | [Ver projeto](https://github.com/Raphael2203/Gestor_de_Atletas)  
 | **Estacionamento de Veículos (C#)** | Controle de entrada e saída de veículos com permissões e Autenticação | C#, MinimalAPI, Entity Framework, AWS | [Ver projeto](https://github.com/Raphael2203/minimal-api)
+| **Ecommerce API (C#)** | Sistema de microserviços com um API Gateway fazendo o roteamento, acesso com autenticação via JWT, microsserviços de venda e estoque comunicando via messageria | Entity Framework, MySQL, RabbitMQ, Ocelot, Entity Framework | [Ver projeto](https://github.com/Raphael2203/ecommerce-api)
 
 ---
 
